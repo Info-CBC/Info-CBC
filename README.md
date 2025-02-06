@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Info-CBC
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning that it's never too late to learn somthing new.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me info@childrensbereavementcentre.co.uk
-- 😄 Pronouns: Depends on who is using the info@
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm younger than I look.
 
 <!---
 Info-CBC/Info-CBC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
